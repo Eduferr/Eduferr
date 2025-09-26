@@ -17,7 +17,3 @@ Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Softwar
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduferr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
