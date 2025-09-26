@@ -10,11 +10,7 @@ Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Softwar
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=automacao_ui_com_cypress_m22.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=automacao_ui_com_cypress_m22&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra_ebacshop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
