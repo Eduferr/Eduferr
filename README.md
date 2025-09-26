@@ -29,7 +29,30 @@ Além disso, possuo **conhecimentos em testes de software e metodologias ágeis*
 
 ### 🔹 Projeto 2  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=Teste_manual_fluxo_de_compra&theme=dark)](https://github.com/Eduferr/ teste_manual_fluxo_de_compra)
+---
+# 💻 Projetos em destaque
 
+<div align="center">
+
+  <!-- Card Projeto 1 -->
+  <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
+    <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
+  </a>
+  <p>
+    📌 Teste manual do fluxo completo de compra na loja virtual EBACShop, validando cadastro, seleção de produtos, checkout e confirmação de pedido.
+  </p>
+
+  ---
+
+  <!-- Card Projeto 2 -->
+  <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra">
+    <img src="https://img.shields.io/badge/Projeto-Fluxo%20de%20Compra-green?style=for-the-badge&logo=github" alt="Fluxo de Compra">
+  </a>
+  <p>
+    📌 Projeto de testes manuais documentando casos de uso e validações de compra online.
+  </p>
+
+</div>
 ---
 
 ## 🛠️ Linguagens utilizadas
