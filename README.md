@@ -15,7 +15,7 @@ Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Softwar
 
 ###2
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra&theme=dark)](https://github.com/Eduferr/teste_manual_fluxo_de_compra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=Teste_manual_fluxo_de_compra&theme=dark)](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)
 
 
 
