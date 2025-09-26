@@ -13,3 +13,7 @@ Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Softwar
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra_ebacshop.github.io&theme=dark)](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=automacao_ui_com_cypress_m22.github.io&theme=dark)](https://github.com/Eduferr/automacao_ui_com_cypress_m22)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste-api-ebac.github.io&theme=dark)](https://github.com/Eduferr/teste-api-ebac)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduferr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
