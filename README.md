@@ -15,14 +15,14 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
 
 ## 💻 Projetos em destaque
 
-<div align="center">
+<div>
 
   <!-- Projeto: Teste manual fluxo de compra EBACShop -->
   <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
     <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
   </a>
   <p>
-    📌 Teste manual do fluxo completo de compra na loja virtual EBACShop, validando cadastro, seleção de produtos, checkout e confirmação de pedido.
+  📌 Realizei a validação manual do fluxo completo de compra na loja virtual EBAC-Shop, incluindo pesquisa e seleção de produtos, adição ao carrinho, processo de checkout e confirmação do pedido. O objetivo foi garantir a usabilidade, funcionalidade e confiabilidade do sistema em todas as etapas da jornada do usuário.
   </p>
 
   ---
@@ -32,7 +32,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
     <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-green?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
-    ⚙️ Automação de interface gráfica usando Cypress para testes end-to-end.
+  📌 Automatizei a validação das funcionalidades de cadastro de usuário e do fluxo completo de compra na loja EBAC-Shop, desde a busca e seleção de produtos até a confirmação do pedido. No projeto utilizei o Cypress, estruturado com Page Objects e Custom Commands, garantindo testes reutilizáveis e manutenção eficiente da suíte automatizada..
   </p>
 
   ---
@@ -42,7 +42,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
     <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-orange?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
-    🔌 Validação e testes de API, verificando endpoints, respostas e integridade de dados.
+  📌 Automatizei teste de API para cadastro, edição e exclusão de usuários, incluindo a validação de contratos de API, garantindo conformidade e integridade dos dados. O projeto foi desenvolvido com Cypress, integrado a pipeline de CI/CD no Jenkins, assegurando testes repetíveis e manutenção eficiente da suíte automatizada..
   </p>
 
   ---
@@ -52,7 +52,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
     <img src="https://img.shields.io/badge/Projeto-Arquivos%20Drive-red?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
   </a>
   <p>
-    📁 Pasta com documentos, evidências e artefatos de projetos.
+   📌 Desenvolvi um protótipo de sistema voltado para o aumento de doadores de sangue, oferecendo benefícios como descontos e recompensas. Atuei no levantamento de requisitos, definição de regras de negócio, modelagem de banco de dados, criação de diagramas UML e prototipação da interface do sistema. O projeto permitiu aplicar conhecimentos em análise de sistemas, design de interfaces e boas práticas de documentação técnica.
   </p>
 
 </div>
