@@ -1,40 +1,23 @@
-# 👋 Olá, eu sou o Eduardo Ferreira
+# 👋 Olá, eu sou o Eduardo
 
 ## 🚀 Sobre mim
 Sou graduado em **Sistemas de Informação** e atualmente curso **Qualidade de Software na EBAC**.  
 Tenho experiência na área administrativa, onde desenvolvi um perfil **analítico, organizado e resiliente**.  
-
-Também atuei como estagiário em uma **fábrica de software**, participando de:  
-- Análise e levantamento de requisitos  
-- Modelagem de dados  
-- Desenvolvimento de sistemas acadêmicos  
-
-Além disso, possuo **conhecimentos em testes de software e metodologias ágeis**.  
+Também já trabalhei como estagiário em uma fábrica de software, participando de análise de requisitos, modelagem de dados e desenvolvimento de sistemas.  
+Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
 
 ---
 
 ## 📊 GitHub Stats
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduferr&show_icons=true&theme=dark)  
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduferr&show_icons=true&theme=dark)
 
 ---
 
 ## 💻 Projetos em destaque
-- [Teste Manual - Fluxo de Compra EBACShop](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)  
-- [Teste Manual - Fluxo de Compra (variação)](https://github.com/Eduferr/teste_manual_fluxo_de_compra)  
----
-### 🔹 Projeto 1  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra_ebacshop&theme=dark)](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)
-
----
-
-### 🔹 Projeto 2  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=Teste_manual_fluxo_de_compra&theme=dark)](https://github.com/Eduferr/ teste_manual_fluxo_de_compra)
----
-# 💻 Projetos em destaque
 
 <div align="center">
 
-  <!-- Card Projeto 1 -->
+  <!-- Projeto: Teste manual fluxo de compra EBACShop -->
   <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
     <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
   </a>
@@ -44,15 +27,36 @@ Além disso, possuo **conhecimentos em testes de software e metodologias ágeis*
 
   ---
 
-  <!-- Card Projeto 2 -->
-  <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra">
-    <img src="https://img.shields.io/badge/Projeto-Fluxo%20de%20Compra-green?style=for-the-badge&logo=github" alt="Fluxo de Compra">
+  <!-- Projeto: Automação UI com Cypress -->
+  <a href="https://github.com/Eduferr/automacao_ui_com_cypress_m22">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-green?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
-    📌 Projeto de testes manuais documentando casos de uso e validações de compra online.
+    ⚙️ Automação de interface gráfica usando Cypress para testes end-to-end.
+  </p>
+
+  ---
+
+  <!-- Projeto: Teste API EBAC -->
+  <a href="https://github.com/Eduferr/teste-api-ebac">
+    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-orange?style=for-the-badge&logo=github" alt="Teste API EBAC">
+  </a>
+  <p>
+    🔌 Validação e testes de API, verificando endpoints, respostas e integridade de dados.
+  </p>
+
+  ---
+
+  <!-- Projeto: Arquivos no Google Drive -->
+  <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
+    <img src="https://img.shields.io/badge/Projeto-Arquivos%20Drive-red?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
+  </a>
+  <p>
+    📁 Pasta com documentos, evidências e artefatos de projetos.
   </p>
 
 </div>
+
 ---
 
 ## 🛠️ Linguagens utilizadas
