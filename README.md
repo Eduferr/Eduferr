@@ -7,3 +7,9 @@ Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Softwar
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduferr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra_ebacshop.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=automacao_ui_com_cypress_m22.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste-api-ebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
