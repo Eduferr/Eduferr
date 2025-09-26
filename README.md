@@ -25,7 +25,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
 
   ---
   <a href="https://github.com/Eduferr/automacao_ui_com_cypress_m22">
-    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-green?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
   Automatizei a validação das funcionalidades de cadastro de usuário e do fluxo completo de compra na loja EBAC-Shop, desde a busca e seleção de produtos até a confirmação do pedido. No projeto utilizei o Cypress, estruturado com Page Objects e Custom Commands, garantindo testes reutilizáveis e manutenção eficiente da suíte automatizada..
@@ -34,7 +34,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
   ---
 
   <a href="https://github.com/Eduferr/teste-api-ebac">
-    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-orange?style=for-the-badge&logo=github" alt="Teste API EBAC">
+    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
   Automatizei teste de API para cadastro, edição e exclusão de usuários, incluindo a validação de contratos de API, garantindo conformidade e integridade dos dados. O projeto foi desenvolvido com Cypress, integrado a pipeline de CI/CD no Jenkins, assegurando testes repetíveis e manutenção eficiente da suíte automatizada..
@@ -43,7 +43,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
   ---
 
   <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
-    <img src="https://img.shields.io/badge/Projeto-Arquivos%20Drive-red?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
+    <img src="https://img.shields.io/badge/Projeto-Arquivos%20Drive-blue?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
   </a>
   <p>
    Desenvolvi um protótipo de sistema voltado para o aumento de doadores de sangue, oferecendo benefícios como descontos e recompensas. Atuei no levantamento de requisitos, definição de regras de negócio, modelagem de banco de dados, criação de diagramas UML e prototipação da interface do sistema. O projeto permitiu aplicar conhecimentos em análise de sistemas, design de interfaces e boas práticas de documentação técnica.
