@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eduardo
+# 👋 Olá, eu sou o Eduardo Ferreira
 
 ## 🚀 Sobre mim
 Sou graduado em **Sistemas de Informação** e atualmente curso **Qualidade de Software na EBAC**.  
@@ -21,6 +21,14 @@ Além disso, possuo **conhecimentos em testes de software e metodologias ágeis*
 ## 💻 Projetos em destaque
 - [Teste Manual - Fluxo de Compra EBACShop](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)  
 - [Teste Manual - Fluxo de Compra (variação)](https://github.com/Eduferr/teste_manual_fluxo_de_compra)  
+---
+### 🔹 Projeto 1  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=teste_manual_fluxo_de_compra_ebacshop&theme=dark)](https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop)
+
+---
+
+### 🔹 Projeto 2  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduferr&repo=Teste_manual_fluxo_de_compra&theme=dark)](https://github.com/Eduferr/ teste_manual_fluxo_de_compra)
 
 ---
 
