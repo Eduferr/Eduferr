@@ -43,7 +43,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
   ---
 
   <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
-    <img src="https://img.shields.io/badge/Projeto-Arquivos%20Drive-blue?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
+    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-blue?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
   </a>
   <p>
    Desenvolvi um protótipo de sistema voltado para o aumento de doadores de sangue, oferecendo benefícios como descontos e recompensas. Atuei no levantamento de requisitos, definição de regras de negócio, modelagem de banco de dados, criação de diagramas UML e prototipação da interface do sistema. O projeto permitiu aplicar conhecimentos em análise de sistemas, design de interfaces e boas práticas de documentação técnica.
