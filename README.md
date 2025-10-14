@@ -24,7 +24,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
   </p>
 
   ---
-  <a href="https://github.com/Eduferr/automacao_ui_com_cypress_m22">
+  <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
     <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
@@ -33,7 +33,7 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
 
   ---
 
-  <a href="https://github.com/Eduferr/teste-api-ebac">
+  <a href="https://github.com/Eduferr/teste_automatizado_apiServeRest">
     <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
