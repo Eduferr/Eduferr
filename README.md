@@ -1,10 +1,16 @@
 ## 👋 Olá, eu sou o Eduardo Ferreira
 
 ### Sobre mim
-Sou graduado em **Sistemas de Informação** e atualmente curso **Qualidade de Software na EBAC**.  
-Tenho experiência na área administrativa, onde desenvolvi um perfil **analítico, organizado e resiliente**.  
-Também já trabalhei como estagiário em uma fábrica de software, participando de análise de requisitos, modelagem de dados e desenvolvimento de sistemas.  
-Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
+Sou graduado em Sistemas de Informação e atualmente curso Qualidade de Software na EBAC, com forte interesse em testes de software. 
+Possuo mais de 10 anos de experiência em administração (compras e logística) em empresas de grande porte como Vivo e Grupo Pão de Açúcar, onde desenvolvi um perfil analítico, organizado e resiliente.
+
+Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
+•	Testes de Software: Planejamento, execução e documentação de testes manuais e exploratórios.
+•	Automação de Testes: Desenvolvimento de scripts para web e API REST usando Cypress e Node.js, com validação funcional e de contrato, e uso de Faker.js para dados dinâmicos.
+•	Metodologias Ágeis: Conhecimento sobre Scrum e Kanban na organização de tarefas e fluxos de teste.
+•	Ferramentas e Tecnologias: Git, GitHub, Docker, Jenkins, SQL, JavaScript; estruturação de automação com Page Objects, Actions, Fixtures e Factories.
+•	Conhecimentos Complementares: Noções de testes mobile, TDD, BDD e Robot Framework.
+
 
 ---
 
