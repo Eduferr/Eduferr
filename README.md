@@ -28,7 +28,10 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
     <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
-  Automatizei a validação das funcionalidades de cadastro de usuário e do fluxo completo de compra na loja EBAC-Shop, desde a busca e seleção de produtos até a confirmação do pedido. No projeto utilizei o Cypress, estruturado com Page Objects e Custom Commands, garantindo testes reutilizáveis e manutenção eficiente da suíte automatizada..
+  Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
+  Estruturei a automação com Page Objects, Actions, Fixtures e Factories (com Faker.js para geração dinâmica de dados), garantindo modularidade, reutilização de código e escala.
+  Automatizei os fluxos de cadastro do usuário, login e compra de produtos, aplicando boas práticas de QA e testes funcionais.
+  Tecnologias utilizadas: Cypress, JavaScript, Node.js, Page Objects, Actions, Faker.js, E2E, E-commerce.
   </p>
 
   ---
@@ -37,7 +40,9 @@ Além disso, possuo conhecimentos em testes de software e metodologias ágeis.
     <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
-  Automatizei teste de API para cadastro, edição e exclusão de usuários, incluindo a validação de contratos de API, garantindo conformidade e integridade dos dados. O projeto foi desenvolvido com Cypress, integrado a pipeline de CI/CD no Jenkins, assegurando testes repetíveis e manutenção eficiente da suíte automatizada..
+  Desenvolvi testes automatizados para a API ServeRest, utilizando Cypress e Node.js. Projeto estruturado com Actions, Fixtures, Schemas (Joi) e utils, aplicando Faker.js para dados  dinâmicos.
+  Automatizei validações de CRUD de usuários e produtos, login e respostas JSON, garantindo validação funcional, validação de contrato e consistência de status e mensagens de erro.
+  Tecnologias utilizadas: API Testing, Cypress, Node.js, E2E, Faker.js, Joi, validação de Contrato, Teste Funcional.
   </p>
 
   ---
