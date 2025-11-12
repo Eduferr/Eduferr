@@ -36,6 +36,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
   <p>
   Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
   Estruturei a automação com Page Objects, Actions, Fixtures e Factories (com Faker.js para geração dinâmica de dados), garantindo modularidade, reutilização de código e escala. Automatizei os fluxos de cadastro do usuário, login e compra de produtos, aplicando boas práticas de QA e testes funcionais.
+    
   •	Tecnologias utilizadas: Cypress, JavaScript, Node.js, Page Objects, Actions, Faker.js, E2E, E-commerce, Mochawesome.
   </p>
 
@@ -47,7 +48,8 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
   <p>
   Desenvolvi testes automatizados para a API ServeRest, utilizando Cypress e Node.js. Projeto estruturado com Actions, Fixtures, Schemas (Joi) e utils, aplicando Faker.js para dados dinâmicos. 
   Automatizei validações de CRUD de usuários e produtos, login e respostas JSON, garantindo validação funcional, validação de contrato e consistência de status e mensagens de erro.
-  Configurei pipelines de Integração Contínua (CI) com GitHub Actions, com a geração de relatórios Mochawesome e publicação automática dos resultados, 
+  Configurei pipelines de Integração Contínua (CI) com GitHub Actions, com a geração de relatórios Mochawesome e publicação automática dos resultados.
+    
   •	Tecnologias utilizadas: API Testing, Cypress, Node.js, E2E, Faker.js, Joi, validação de Contrato, Teste Funcional, Mochawesome, start-server, GitHub Actions.
 
   </p>
