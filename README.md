@@ -19,61 +19,113 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
 ---
 
-### Projetos em destaque
+## 🚀 Projetos em Destaque
 
-<div>
+---
+
+### 🎓 TCC EBAC QE — QA End-to-End
+
+<p align="left">
   <a href="https://github.com/Eduferr/tcc-ebac-qe">
     <img src="https://img.shields.io/badge/Projeto-TCC%20EBAC%20QE-green?style=for-the-badge&logo=github" alt="Projeto TCC - Qualidade de Software">
   </a>
-  <p>
-  No meu TCC, realizei a validação de qualidade da aplicação EBAC Shop de forma ponta a ponta, cobrindo testes de UI (Web), API, Mobile e Performance. O escopo contemplou cenários críticos de negócio, incluindo Login, Carrinho de Compras e Cupons de Desconto, com definição e execução de cenários em BDD, verificação de regras de negócio, estabilidade das funcionalidades e análise de desempenho sob carga. O objetivo foi assegurar confiabilidade, consistência de dados entre camadas e boa experiência do usuário nas principais jornadas do sistema.
-  </p>
+</p>
 
-  ---
+**Escopo**
+- UI (Web) · API · Mobile · Performance  
+- Login · Carrinho · Cupons  
 
-<div>
+**Atividades**
+- Definição e execução de cenários BDD  
+- Validação de regras de negócio e consistência de dados entre camadas  
+- Testes funcionais, não funcionais e análise de desempenho sob carga  
+
+**Tecnologias**
+- Cypress · Cucumber · Supertest · k6 · Node.js · GitHub Actions · Allure
+
+---
+
+### 🛒 EBAC Shop — Fluxo de Compra (Teste Manual)
+
+<p align="left">
   <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
     <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
   </a>
-  <p>
-  Realizei a validação manual do fluxo completo de compra na loja virtual EBAC-Shop, incluindo pesquisa e seleção de produtos, adição ao carrinho, processo de checkout e confirmação do pedido. O objetivo foi garantir a usabilidade, funcionalidade e confiabilidade do sistema em todas as etapas da jornada do usuário.
-  </p>
+</p>
 
-  ---
+**Escopo**
+- Pesquisa de produtos · Carrinho · Checkout · Confirmação de pedido  
+
+**Atividades**
+- Testes manuais e exploratórios do fluxo completo de compra  
+- Validação de usabilidade, funcionalidade e jornada do usuário  
+- Registro e análise de comportamentos e falhas funcionais  
+
+**Tecnologias**
+- Teste Manual · Casos de Teste · E-commerce · Relatório de Defeitos
+
+---
+
+### 🤖 Automação UI — Cypress
+
+<p align="left">
   <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
     <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
-  <p>
-  Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
-  Estruturei a automação com Page Objects, Actions, Fixtures e Factories (com Faker.js para geração dinâmica de dados), garantindo modularidade, reutilização de código e escala. Automatizei os fluxos de cadastro do usuário, login e compra de produtos, aplicando boas práticas de QA e testes funcionais.
-    
-  •	Tecnologias utilizadas: Cypress, JavaScript, Node.js, Page Objects, Actions, Faker.js, E2E, E-commerce, Mochawesome.
-  </p>
+</p>
 
-  ---
+**Escopo**
+- Cadastro · Login · Compra de produtos  
 
+**Atividades**
+- Automação de testes end-to-end com Page Objects e Actions  
+- Geração dinâmica de dados com Faker.js  
+- Aplicação de boas práticas de QA e testes funcionais  
+
+**Tecnologias**
+- Cypress · JavaScript · Node.js · Faker.js · Mochawesome · GitHub Actions
+
+---
+
+### 🔗 Testes de API — EBAC (ServeRest)
+
+<p align="left">
   <a href="https://github.com/Eduferr/teste_automatizado_apiServeRest">
     <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
-  <p>
-  Desenvolvi testes automatizados para a API ServeRest, utilizando Cypress e Node.js. Projeto estruturado com Actions, Fixtures, Schemas (Joi) e utils, aplicando Faker.js para dados dinâmicos. 
-  Automatizei validações de CRUD de usuários e produtos, login e respostas JSON, garantindo validação funcional, validação de contrato e consistência de status e mensagens de erro.
-  Configurei pipelines de Integração Contínua (CI) com GitHub Actions, com a geração de relatórios Mochawesome e publicação automática dos resultados.
-    
-  •	Tecnologias utilizadas: API Testing, Cypress, Node.js, E2E, Faker.js, Joi, validação de Contrato, Teste Funcional, Mochawesome, start-server, GitHub Actions.
+</p>
 
-  </p>
+**Escopo**
+- CRUD de usuários e produtos · Login  
 
-  ---
+**Atividades**
+- Validação funcional e de contrato com Joi  
+- Verificação de status, mensagens e payloads JSON  
+- Integração com CI/CD e geração automática de relatórios  
 
+**Tecnologias**
+- Cypress · API Testing · Node.js · Joi · Faker.js · GitHub Actions · Mochawesome
+
+---
+
+### 📘 Projeto Acadêmico — Parceiros de Sangue
+
+<p align="left">
   <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
     <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-darkgrey?style=for-the-badge&logo=google-drive" alt="Projeto Acadêmico - Parceiros de Sangue">
   </a>
-  <p>
-   Desenvolvi um protótipo de sistema voltado para o aumento de doadores de sangue, oferecendo benefícios como descontos e recompensas. Atuei no levantamento de requisitos, definição de regras de negócio, modelagem de banco de dados, criação de diagramas UML e prototipação da interface do sistema. O projeto permitiu aplicar conhecimentos em análise de sistemas, design de interfaces e boas práticas de documentação técnica.
-  </p>
+</p>
 
-</div>
+**Escopo**
+- Sistema para incentivo à doação de sangue  
+
+**Atividades**
+- Levantamento de requisitos e definição de regras de negócio  
+- Modelagem de dados e criação de diagramas UML  
+- Prototipação de interface e documentação técnica  
+
+**Tecnologias**
+- Análise de Sistemas · UML · Prototipação · Documentação Técnica
 
 ---
 
