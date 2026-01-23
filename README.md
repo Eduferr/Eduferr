@@ -98,3 +98,15 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
 **Tecnologias:** Cypress · API Testing · Node.js · Joi · Faker.js · GitHub Actions
 
+
+---
+
+```bash
+| Projeto                | Tipo      | Escopo                          | Tecnologias                      |
+|------------------------|-----------|---------------------------------|----------------------------------|
+| TCC EBAC QE            | Acadêmico | UI · API · Mobile · Performance | Cypress · Cucumber · k6 · Node   |
+| Teste API EBAC         | Técnico   | API                             | Cypress · Node · Joi · Faker     |
+| Automação UI           | Técnico   | UI Web                          | Cypress · Page Objects · Actions |
+| Parceiros de Sangue    | Acadêmico | Análise e Modelagem             | UML · Requisitos · Prototipação  |
+```
+
