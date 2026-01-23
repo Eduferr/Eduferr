@@ -240,7 +240,7 @@ Possuo mais de 10 anos de experiência administrativa em empresas de grande port
 
 <p align="left">
   <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
-    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-darkgrey?style=for-the-badge&logo=google-drive" alt="Projeto Acadêmico - Parceiros de Sangue">
+    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-red?style=for-the-badge&logo=google-drive" alt="Projeto Acadêmico - Parceiros de Sangue">
   </a>
 </p>
 
