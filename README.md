@@ -84,3 +84,17 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Ferreira-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edufgs/)
+
+---
+
+<img src="https://img.shields.io/badge/Projeto-TESTE%20API%20EBAC-blue?style=for-the-badge&logo=github">
+
+**Validação automatizada de API REST com foco em qualidade, contrato e CI/CD.**
+
+- Automação de testes para a API Serverest utilizando Cypress e Node.js  
+- Validação de regras de negócio, CRUD, login e respostas JSON  
+- Testes de contrato com Joi e dados dinâmicos via Faker.js  
+- Pipeline de CI com GitHub Actions e relatórios Mochawesome  
+
+**Tecnologias:** Cypress · API Testing · Node.js · Joi · Faker.js · GitHub Actions
+
