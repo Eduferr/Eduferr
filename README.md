@@ -41,7 +41,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
   ---
   <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
-    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-Baby blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-gold?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
   Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
@@ -53,7 +53,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
   ---
 
   <a href="https://github.com/Eduferr/teste_automatizado_apiServeRest">
-    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-yellow?style=for-the-badge&logo=github" alt="Teste API EBAC">
+    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-indigo?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
   Desenvolvi testes automatizados para a API ServeRest, utilizando Cypress e Node.js. Projeto estruturado com Actions, Fixtures, Schemas (Joi) e utils, aplicando Faker.js para dados dinâmicos. 
