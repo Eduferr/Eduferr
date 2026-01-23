@@ -41,7 +41,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
   ---
   <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
-    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-gold?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
   Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
@@ -53,7 +53,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
   ---
 
   <a href="https://github.com/Eduferr/teste_automatizado_apiServeRest">
-    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-indigo?style=for-the-badge&logo=github" alt="Teste API EBAC">
+    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
   </a>
   <p>
   Desenvolvi testes automatizados para a API ServeRest, utilizando Cypress e Node.js. Projeto estruturado com Actions, Fixtures, Schemas (Joi) e utils, aplicando Faker.js para dados dinâmicos. 
@@ -67,7 +67,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
   ---
 
   <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
-    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-red?style=for-the-badge&logo=google-drive" alt="Arquivos Drive">
+    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-darkgrey?style=for-the-badge&logo=google-drive" alt="Projeto Acadêmico - Parceiros de Sangue">
   </a>
   <p>
    Desenvolvi um protótipo de sistema voltado para o aumento de doadores de sangue, oferecendo benefícios como descontos e recompensas. Atuei no levantamento de requisitos, definição de regras de negócio, modelagem de banco de dados, criação de diagramas UML e prototipação da interface do sistema. O projeto permitiu aplicar conhecimentos em análise de sistemas, design de interfaces e boas práticas de documentação técnica.
