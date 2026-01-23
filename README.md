@@ -101,12 +101,72 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
 ---
 
-```bash
-| Projeto                | Tipo      | Escopo                          | Tecnologias                      |
-|------------------------|-----------|---------------------------------|----------------------------------|
-| TCC EBAC QE            | Acadêmico | UI · API · Mobile · Performance | Cypress · Cucumber · k6 · Node   |
-| Teste API EBAC         | Técnico   | API                             | Cypress · Node · Joi · Faker     |
-| Automação UI           | Técnico   | UI Web                          | Cypress · Page Objects · Actions |
-| Parceiros de Sangue    | Acadêmico | Análise e Modelagem             | UML · Requisitos · Prototipação  |
-```
+## 🚀 Projetos em Destaque
+
+---
+
+### 🎓 Projeto em Destaque — TCC EBAC QE
+
+<p align="left">
+  <a href="https://github.com/Eduferr/tcc-ebac-qe">
+    <img src="https://img.shields.io/badge/Projeto-TCC%20EBAC%20QE-green?style=for-the-badge&logo=github" alt="Projeto TCC - Qualidade de Software">
+  </a>
+</p>
+
+No meu **TCC**, realizei a validação de qualidade da aplicação **EBAC Shop** de forma **end-to-end**, cobrindo **UI (Web)**, **API**, **Mobile** e **Performance**.  
+O escopo contemplou cenários críticos de negócio, incluindo **Login**, **Carrinho de Compras** e **Cupons de Desconto**, com cenários em **BDD**, validação de regras de negócio e análise de desempenho sob carga, assegurando **confiabilidade**, **consistência entre camadas** e **boa experiência do usuário**.
+
+---
+
+### 🛒 EBAC Shop — Fluxo de Compra (Teste Manual)
+
+<p align="left">
+  <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
+    <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
+  </a>
+</p>
+
+Validação **manual** do fluxo completo de compra da loja virtual **EBAC Shop**, abrangendo pesquisa de produtos, carrinho, checkout e confirmação de pedido, com foco em **usabilidade**, **funcionalidade** e **confiabilidade** ao longo da jornada do usuário.
+
+---
+
+### 🤖 Automação UI — Cypress
+
+<p align="left">
+  <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
+  </a>
+</p>
+
+Projeto de **automação end-to-end** para o e-commerce **EBAC Shop**, utilizando **Cypress** e **Node.js**, estruturado com **Page Objects**, **Actions**, **Fixtures** e **Factories**, com geração dinâmica de dados via **Faker.js**.  
+Automação dos fluxos de **cadastro**, **login** e **compra**, aplicando boas práticas de QA e testes funcionais.
+
+**Tecnologias:** Cypress · JavaScript · Node.js · Faker.js · E2E · Mochawesome
+
+---
+
+### 🔗 Testes de API — EBAC (ServeRest)
+
+<p align="left">
+  <a href="https://github.com/Eduferr/teste_automatizado_apiServeRest">
+    <img src="https://img.shields.io/badge/Projeto-Teste%20API%20EBAC-blue?style=for-the-badge&logo=github" alt="Teste API EBAC">
+  </a>
+</p>
+
+Automação de testes para a **API ServeRest**, com validações de **CRUD**, **login**, **respostas JSON** e **contratos** utilizando **Joi**.  
+Projeto integrado a **CI/CD com GitHub Actions**, geração de relatórios **Mochawesome** e publicação automática dos resultados.
+
+**Tecnologias:** Cypress · API Testing · Node.js · Joi · Faker.js · GitHub Actions · Mochawesome
+
+---
+
+### 📘 Projeto Acadêmico — Parceiros de Sangue
+
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/14QjYDNwRJi5inPK1bSRtWJgqk-gL3Xk3">
+    <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Parceiros%20de%20Sangue-darkgrey?style=for-the-badge&logo=google-drive" alt="Projeto Acadêmico - Parceiros de Sangue">
+  </a>
+</p>
+
+Protótipo de sistema voltado ao **aumento de doadores de sangue**, com levantamento de requisitos, definição de regras de negócio, **modelagem de dados**, **diagramas**
 
