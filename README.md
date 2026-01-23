@@ -5,6 +5,18 @@
 ### Sobre mim
 Graduado em Sistemas de Informação e com formação em Qualidade de Software pela EBAC, possuo forte interesse e atuação em testes de software. Trago mais de 10 anos de experiência administrativa em empresas de grande porte, com sólida vivência em análise de processos, organização, atenção a detalhes e gestão de rotinas, competências que hoje aplico diretamente na área de Quality Assurance durante minha transição para Tecnologia.
 
+---
+
+#### 📜 Certificações
+
+- **ISTQB Certified Tester – Foundation Level (CTFL)**  
+  Fundamentos de Testes · Processo de Testes · Técnicas de Teste · Testes Funcionais e Não Funcionais
+
+- **Scrum Fundamentals Certified (SFC)**  
+  Fundamentos do Scrum · Papéis · Eventos · Artefatos · Mentalidade Ágil
+
+---
+
 #### 📬 Contato
 <div>
 <a href="https://www.linkedin.com/in/edufgs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -14,7 +26,7 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 
 ---
 
-### 🤖 Linguagens, Tecnologias e framework
+### 🤖 Linguagens, Tecnologias e framework 
 
 <img 
     align="left" 
@@ -74,14 +86,6 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 
 <img 
     align="left" 
-    alt="Jenkins"
-    title="Jenkins" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Cypress"
     title="Cypress" 
     width="30px" 
@@ -114,28 +118,11 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 
 <img 
     align="left" 
-    alt="Appium"
-    title="Appium" 
-    width="30px" 
-    src="https://www.svgrepo.com/show/353413/appium.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Scrum"
     title="Scrum" 
     width="30px" 
     src="https://img.icons8.com/?size=80&id=Tdq97MnRT7fw&format=png" 
 />
-
-<img 
-    align="left" 
-    alt="CTFL"
-    title="CTFL" 
-    width="30px" 
-    src="https://media.licdn.com/dms/image/v2/D4D12AQFv4-CxSbiI-g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1672930390453?e=2147483647&v=beta&t=1zdmbHKyTqWzsVhpBVcKMc2nqQFXFW_1IS2pgJi9eUs" 
-/>
-
 
 <br/><br/>
 
