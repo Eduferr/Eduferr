@@ -21,6 +21,15 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
 ## 🚀 Projetos em Destaque
 
+```bash
+| Categoria          | Descrição |
+|------------        |-----------|
+| **Escopo**         | UI (Web) · API · Mobile · Performance<br>Login · Carrinho · Cupons |
+| **Atividades**     | Definição e execução de cenários BDD<br>Validação de regras de negócio e consistência de dados entre camadas<br>Testes funcionais, não funcionais e análise de desempenho sob carga |
+| **Tecnologias**    | Cypress · Cucumber · Supertest · k6 · Node.js · GitHub Actions · Allure |
+
+```
+
 ---
 
 ### 🎓 TCC EBAC QE — QA End-to-End
