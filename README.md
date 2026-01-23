@@ -22,8 +22,18 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 ### Projetos em destaque
 
 <div>
+  <a href="https://github.com/Eduferr/tcc-ebac-qe">
+    <img src="https://img.shields.io/badge/Projeto-TCC%20EBAC%20QE-green?style=for-the-badge&logo=github" alt="Projeto TCC - Qualidade de Software">
+  </a>
+  <p>
+  No meu TCC, realizei a validação de qualidade da aplicação EBAC Shop de forma ponta a ponta, cobrindo testes de UI (Web), API, Mobile e Performance. O escopo contemplou cenários críticos de negócio, incluindo Login, Carrinho de Compras e Cupons de Desconto, com definição e execução de cenários em BDD, verificação de regras de negócio, estabilidade das funcionalidades e análise de desempenho sob carga. O objetivo foi assegurar confiabilidade, consistência de dados entre camadas e boa experiência do usuário nas principais jornadas do sistema.
+  </p>
+
+  ---
+
+<div>
   <a href="https://github.com/Eduferr/teste_manual_fluxo_de_compra_ebacshop">
-    <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-green?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
+    <img src="https://img.shields.io/badge/Projeto-EBACShop%20Fluxo%20de%20Compra-blue?style=for-the-badge&logo=github" alt="EBACShop Fluxo de Compra">
   </a>
   <p>
   Realizei a validação manual do fluxo completo de compra na loja virtual EBAC-Shop, incluindo pesquisa e seleção de produtos, adição ao carrinho, processo de checkout e confirmação do pedido. O objetivo foi garantir a usabilidade, funcionalidade e confiabilidade do sistema em todas as etapas da jornada do usuário.
@@ -31,7 +41,7 @@ Experiência prática adquirida por meio de projetos acadêmicos, incluindo:
 
   ---
   <a href="https://github.com/Eduferr/teste_automatizado_ebacShop">
-    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
+    <img src="https://img.shields.io/badge/Projeto-Automação%20UI%20(Cypress)-Baby blue?style=for-the-badge&logo=github" alt="Automação UI com Cypress">
   </a>
   <p>
   Elaborei um plano de teste e desenvolvi um projeto de automação de testes end-to-end para o e-commerce EBACSHOP, utilizando Cypress e Node.js. 
