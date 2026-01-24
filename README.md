@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eduardo Ferreira
 
-**`Quality Assurance | Testes de Software | Automação UI & API`**
+**`Quality Assurance | Testes de Software | Testes Manuais e exploratórios | Automação UI & API`**
 
 ### Sobre mim
 Graduado em Sistemas de Informação e com formação em Qualidade de Software pela EBAC, possuo forte interesse e atuação em testes de software. Trago mais de 10 anos de experiência administrativa em empresas de grande porte, com sólida vivência em análise de processos, organização, atenção a detalhes e gestão de rotinas, competências que hoje aplico diretamente na área de Quality Assurance durante minha transição para Tecnologia.
