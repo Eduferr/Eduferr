@@ -154,7 +154,7 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 
 ## 🚀 Projetos em Destaque
 
-### 🎓 TCC EBAC QE — QA End-to-End
+### 🎓 Projeto Prático de QA – Automação de Testes End-to-End
 
 <p align="left">
   <a href="https://github.com/Eduferr/tcc-ebac-qe">
