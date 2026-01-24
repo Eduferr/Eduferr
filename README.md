@@ -19,8 +19,16 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 
 #### 📬 Contato
 <div>
-<a href="https://www.linkedin.com/in/edufgs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:eduferr2803@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/eduferr2803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p>
+  <a href="https://www.linkedin.com/in/edufgs/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="15">
+  </a>
+
+  <a href="mailto:eduferr2803@gmail.com">
+    <img src="https://img.shields.io/badge/eduferr2803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
   
 </div>
 
