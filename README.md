@@ -31,29 +31,6 @@ Graduado em Sistemas de Informação e com formação em Qualidade de Software p
 </div>
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div>
-  <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduferr&show_icons=true&theme=dark&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduferr&layout=compact&theme=dark&locale=pt-br&custom_title=Linguagens%20mais%20utilizadas"
-    alt="Linguagens mais utilizadas"
-  />
-
-  <br clear="all" />
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🎓 Projeto Prático de QA – Automação de Testes End-to-End
